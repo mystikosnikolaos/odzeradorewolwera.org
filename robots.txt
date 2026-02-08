@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: .gitignore
+Disallow: rss.xml
+Disallow: README.md
+Sitemap: https://odzeradorewolwera.org/sitemap.xml
